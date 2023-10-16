@@ -1,5 +1,5 @@
 # Responsive Ecommerce Website Sneakers
-## [Watch it on youtube](https://youtu.be/-EM4uVJm9qo)
+
 ### Responsive Ecommerce Website Sneakers
 
 - Responsive Ecommerce Website Using HTML CSS JavaScript
